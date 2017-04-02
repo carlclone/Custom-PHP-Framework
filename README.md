@@ -15,3 +15,5 @@
 
 * [ ] Model
 * [ ] PSR-4 Autoload
+
+Made by Raw PHP and Composer
